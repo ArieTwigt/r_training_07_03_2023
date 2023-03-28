@@ -1,26 +1,26 @@
-"","age_years","duration_months","credit_amount","purpose","response"
-"1",45,14,8978,"car (new)",1
-"2",55,24,6872,"furniture/equipment",1
-"3",32,30,4583,"furniture/equipment",0
-"4",40,18,4297,"furniture/equipment",1
-"5",43,24,4057,"furniture/equipment",1
-"6",37,24,3878,"car (new)",0
-"7",35,18,3780,"furniture/equipment",0
-"8",44,20,3485,"car (new)",0
-"9",44,6,3384,"furniture/equipment",1
-"10",31,30,3108,"furniture/equipment",1
-"11",61,12,3059,"radio/television",0
-"12",51,24,2892,"furniture/equipment",0
-"13",42,12,2577,"furniture/equipment",0
-"14",36,12,2366,"car (new)",0
-"15",33,24,2359,"furniture/equipment",1
-"16",47,21,2353,"car (new)",0
-"17",31,36,2302,"radio/television",1
-"18",32,24,1938,"radio/television",1
-"19",33,6,1543,"furniture/equipment",0
-"20",31,10,1521,"furniture/equipment",0
-"21",36,12,1372,"car (new)",1
-"22",49,12,1262,"furniture/equipment",0
-"23",46,12,1223,"car (new)",1
-"24",49,9,1126,"radio/television",0
-"25",49,12,640,"car (new)",0
+age_years;duration_months;credit_amount;purpose;response
+45;14;8978;car (new);1
+55;24;6872;furniture/equipment;1
+32;30;4583;furniture/equipment;0
+40;18;4297;furniture/equipment;1
+43;24;4057;furniture/equipment;1
+37;24;3878;car (new);0
+35;18;3780;furniture/equipment;0
+44;20;3485;car (new);0
+44;6;3384;furniture/equipment;1
+31;30;3108;furniture/equipment;1
+61;12;3059;radio/television;0
+51;24;2892;furniture/equipment;0
+42;12;2577;furniture/equipment;0
+36;12;2366;car (new);0
+33;24;2359;furniture/equipment;1
+47;21;2353;car (new);0
+31;36;2302;radio/television;1
+32;24;1938;radio/television;1
+33;6;1543;furniture/equipment;0
+31;10;1521;furniture/equipment;0
+36;12;1372;car (new);1
+49;12;1262;furniture/equipment;0
+46;12;1223;car (new);1
+49;9;1126;radio/television;0
+49;12;640;car (new);0
